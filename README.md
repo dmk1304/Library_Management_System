@@ -1,4 +1,4 @@
-# Library Management System using SQL 
+# Library Management System using SQL Part-1
 
 ## Project Overview
 
